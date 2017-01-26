@@ -9,6 +9,7 @@
 class Ssj{
 private:
 	int a;
+	int b;
 public:
 	Ssj();
 };
